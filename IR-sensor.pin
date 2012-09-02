@@ -1,0 +1,21 @@
+IR Sensor
+square with 3 pins. 
+
+Eliptical lens blocks light noise from above and below
+Center frequency is 38kHz
+Reception range is 13m (42.65')
+IR Passband 940nm +- 50nm
+Supply V range= 2.7-5.5
+Supply current: 0.56mA (max.) under no signal input.
+
+193 writen on the back
+Written on the top:
+19 AGTA
+V 4838
+----
+
+Looking fron the front, sensor up
+
+left - Out
+center - Ground
+Right - Vcc 
